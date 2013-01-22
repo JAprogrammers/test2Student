@@ -1,0 +1,14 @@
+C:\Users\emiliyank\AppData\Local\Temporary Projects\Git Test1\bin\Debug\Git Test1.exe
+C:\Users\emiliyank\AppData\Local\Temporary Projects\Git Test1\bin\Debug\Git Test1.pdb
+C:\Users\emiliyank\AppData\Local\Temporary Projects\Git Test1\bin\Debug\Git Test1.xml
+C:\Users\emiliyank\AppData\Local\Temporary Projects\Git Test1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\emiliyank\AppData\Local\Temporary Projects\Git Test1\obj\x86\Debug\Git_Test1.Form1.resources
+C:\Users\emiliyank\AppData\Local\Temporary Projects\Git Test1\obj\x86\Debug\Git_Test1.Resources.resources
+C:\Users\emiliyank\AppData\Local\Temporary Projects\Git Test1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\emiliyank\AppData\Local\Temporary Projects\Git Test1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\emiliyank\AppData\Local\Temporary Projects\Git Test1\obj\x86\Debug\Git Test1.exe
+C:\Users\emiliyank\AppData\Local\Temporary Projects\Git Test1\obj\x86\Debug\Git Test1.xml
+C:\Users\emiliyank\AppData\Local\Temporary Projects\Git Test1\obj\x86\Debug\Git Test1.pdb
+C:\Users\emiliyank\Documents\GitHub\test2Student\Git Test1\Git Test1\obj\x86\Debug\Git Test1.exe
+C:\Users\emiliyank\Documents\GitHub\test2Student\Git Test1\Git Test1\obj\x86\Debug\Git Test1.xml
+C:\Users\emiliyank\Documents\GitHub\test2Student\Git Test1\Git Test1\obj\x86\Debug\Git Test1.pdb
