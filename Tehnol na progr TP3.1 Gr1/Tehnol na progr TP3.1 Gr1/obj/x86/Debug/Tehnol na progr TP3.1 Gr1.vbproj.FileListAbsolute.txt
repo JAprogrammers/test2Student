@@ -1,0 +1,22 @@
+C:\Users\emiliyank\AppData\Local\Temporary Projects\Tehnol na progr TP3.1 Gr1\bin\Debug\Tehnol na progr TP3.1 Gr1.exe
+C:\Users\emiliyank\AppData\Local\Temporary Projects\Tehnol na progr TP3.1 Gr1\bin\Debug\Tehnol na progr TP3.1 Gr1.pdb
+C:\Users\emiliyank\AppData\Local\Temporary Projects\Tehnol na progr TP3.1 Gr1\bin\Debug\Tehnol na progr TP3.1 Gr1.xml
+C:\Users\emiliyank\AppData\Local\Temporary Projects\Tehnol na progr TP3.1 Gr1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\emiliyank\AppData\Local\Temporary Projects\Tehnol na progr TP3.1 Gr1\obj\x86\Debug\Tehnol_na_progr_TP3._1_Gr1.Form1.resources
+C:\Users\emiliyank\AppData\Local\Temporary Projects\Tehnol na progr TP3.1 Gr1\obj\x86\Debug\Tehnol_na_progr_TP3._1_Gr1.Resources.resources
+C:\Users\emiliyank\AppData\Local\Temporary Projects\Tehnol na progr TP3.1 Gr1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\emiliyank\AppData\Local\Temporary Projects\Tehnol na progr TP3.1 Gr1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\emiliyank\AppData\Local\Temporary Projects\Tehnol na progr TP3.1 Gr1\obj\x86\Debug\Tehnol na progr TP3.1 Gr1.exe
+C:\Users\emiliyank\AppData\Local\Temporary Projects\Tehnol na progr TP3.1 Gr1\obj\x86\Debug\Tehnol na progr TP3.1 Gr1.xml
+C:\Users\emiliyank\AppData\Local\Temporary Projects\Tehnol na progr TP3.1 Gr1\obj\x86\Debug\Tehnol na progr TP3.1 Gr1.pdb
+C:\Users\emiliyank\Documents\GitHub\test2Student\Tehnol na progr TP3.1 Gr1\Tehnol na progr TP3.1 Gr1\obj\x86\Debug\Tehnol na progr TP3.1 Gr1.exe
+C:\Users\emiliyank\Documents\GitHub\test2Student\Tehnol na progr TP3.1 Gr1\Tehnol na progr TP3.1 Gr1\obj\x86\Debug\Tehnol na progr TP3.1 Gr1.xml
+C:\Users\emiliyank\Documents\GitHub\test2Student\Tehnol na progr TP3.1 Gr1\Tehnol na progr TP3.1 Gr1\obj\x86\Debug\Tehnol na progr TP3.1 Gr1.pdb
+C:\Users\emiliyank\Documents\GitHub\test2Student\Tehnol na progr TP3.1 Gr1\Tehnol na progr TP3.1 Gr1\bin\Debug\Tehnol na progr TP3.1 Gr1.exe
+C:\Users\emiliyank\Documents\GitHub\test2Student\Tehnol na progr TP3.1 Gr1\Tehnol na progr TP3.1 Gr1\bin\Debug\Tehnol na progr TP3.1 Gr1.pdb
+C:\Users\emiliyank\Documents\GitHub\test2Student\Tehnol na progr TP3.1 Gr1\Tehnol na progr TP3.1 Gr1\bin\Debug\Tehnol na progr TP3.1 Gr1.xml
+C:\Users\emiliyank\Documents\GitHub\test2Student\Tehnol na progr TP3.1 Gr1\Tehnol na progr TP3.1 Gr1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\emiliyank\Documents\GitHub\test2Student\Tehnol na progr TP3.1 Gr1\Tehnol na progr TP3.1 Gr1\obj\x86\Debug\Tehnol_na_progr_TP3._1_Gr1.Form1.resources
+C:\Users\emiliyank\Documents\GitHub\test2Student\Tehnol na progr TP3.1 Gr1\Tehnol na progr TP3.1 Gr1\obj\x86\Debug\Tehnol_na_progr_TP3._1_Gr1.Resources.resources
+C:\Users\emiliyank\Documents\GitHub\test2Student\Tehnol na progr TP3.1 Gr1\Tehnol na progr TP3.1 Gr1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\emiliyank\Documents\GitHub\test2Student\Tehnol na progr TP3.1 Gr1\Tehnol na progr TP3.1 Gr1\obj\x86\Debug\GenerateResource.write.1.tlog

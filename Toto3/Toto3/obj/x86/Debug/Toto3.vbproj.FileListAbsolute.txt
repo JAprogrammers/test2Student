@@ -1,0 +1,22 @@
+C:\Users\emiliyank\AppData\Local\Temporary Projects\Toto3\bin\Debug\Toto3.exe
+C:\Users\emiliyank\AppData\Local\Temporary Projects\Toto3\bin\Debug\Toto3.pdb
+C:\Users\emiliyank\AppData\Local\Temporary Projects\Toto3\bin\Debug\Toto3.xml
+C:\Users\emiliyank\AppData\Local\Temporary Projects\Toto3\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\emiliyank\AppData\Local\Temporary Projects\Toto3\obj\x86\Debug\Toto3.Form1.resources
+C:\Users\emiliyank\AppData\Local\Temporary Projects\Toto3\obj\x86\Debug\Toto3.Resources.resources
+C:\Users\emiliyank\AppData\Local\Temporary Projects\Toto3\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\emiliyank\AppData\Local\Temporary Projects\Toto3\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\emiliyank\AppData\Local\Temporary Projects\Toto3\obj\x86\Debug\Toto3.exe
+C:\Users\emiliyank\AppData\Local\Temporary Projects\Toto3\obj\x86\Debug\Toto3.xml
+C:\Users\emiliyank\AppData\Local\Temporary Projects\Toto3\obj\x86\Debug\Toto3.pdb
+C:\Users\emiliyank\Documents\GitHub\test2Student\Toto3\Toto3\obj\x86\Debug\Toto3.exe
+C:\Users\emiliyank\Documents\GitHub\test2Student\Toto3\Toto3\obj\x86\Debug\Toto3.xml
+C:\Users\emiliyank\Documents\GitHub\test2Student\Toto3\Toto3\obj\x86\Debug\Toto3.pdb
+C:\Users\emiliyank\Documents\GitHub\test2Student\Toto3\Toto3\bin\Debug\Toto3.exe
+C:\Users\emiliyank\Documents\GitHub\test2Student\Toto3\Toto3\bin\Debug\Toto3.pdb
+C:\Users\emiliyank\Documents\GitHub\test2Student\Toto3\Toto3\bin\Debug\Toto3.xml
+C:\Users\emiliyank\Documents\GitHub\test2Student\Toto3\Toto3\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\emiliyank\Documents\GitHub\test2Student\Toto3\Toto3\obj\x86\Debug\Toto3.Form1.resources
+C:\Users\emiliyank\Documents\GitHub\test2Student\Toto3\Toto3\obj\x86\Debug\Toto3.Resources.resources
+C:\Users\emiliyank\Documents\GitHub\test2Student\Toto3\Toto3\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\emiliyank\Documents\GitHub\test2Student\Toto3\Toto3\obj\x86\Debug\GenerateResource.write.1.tlog

@@ -1,0 +1,14 @@
+C:\Users\emiliyank\Documents\GitHub\test2Student\SQL - First Touch\SQL - First Touch\bin\Debug\SQL - First Touch.exe.config
+C:\Users\emiliyank\Documents\GitHub\test2Student\SQL - First Touch\SQL - First Touch\bin\Debug\DB1.mdf
+C:\Users\emiliyank\Documents\GitHub\test2Student\SQL - First Touch\SQL - First Touch\bin\Debug\DB1_log.ldf
+C:\Users\emiliyank\Documents\GitHub\test2Student\SQL - First Touch\SQL - First Touch\bin\Debug\SQL - First Touch.exe
+C:\Users\emiliyank\Documents\GitHub\test2Student\SQL - First Touch\SQL - First Touch\bin\Debug\SQL - First Touch.pdb
+C:\Users\emiliyank\Documents\GitHub\test2Student\SQL - First Touch\SQL - First Touch\bin\Debug\SQL - First Touch.xml
+C:\Users\emiliyank\Documents\GitHub\test2Student\SQL - First Touch\SQL - First Touch\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\emiliyank\Documents\GitHub\test2Student\SQL - First Touch\SQL - First Touch\obj\x86\Debug\SQL___First_Touch.Form1.resources
+C:\Users\emiliyank\Documents\GitHub\test2Student\SQL - First Touch\SQL - First Touch\obj\x86\Debug\SQL___First_Touch.Resources.resources
+C:\Users\emiliyank\Documents\GitHub\test2Student\SQL - First Touch\SQL - First Touch\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\emiliyank\Documents\GitHub\test2Student\SQL - First Touch\SQL - First Touch\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\emiliyank\Documents\GitHub\test2Student\SQL - First Touch\SQL - First Touch\obj\x86\Debug\SQL - First Touch.exe
+C:\Users\emiliyank\Documents\GitHub\test2Student\SQL - First Touch\SQL - First Touch\obj\x86\Debug\SQL - First Touch.xml
+C:\Users\emiliyank\Documents\GitHub\test2Student\SQL - First Touch\SQL - First Touch\obj\x86\Debug\SQL - First Touch.pdb

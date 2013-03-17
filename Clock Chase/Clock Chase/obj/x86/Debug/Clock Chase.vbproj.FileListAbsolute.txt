@@ -1,0 +1,22 @@
+C:\Users\emiliyank\AppData\Local\Temporary Projects\Clock Chase\bin\Debug\Clock Chase.exe
+C:\Users\emiliyank\AppData\Local\Temporary Projects\Clock Chase\bin\Debug\Clock Chase.pdb
+C:\Users\emiliyank\AppData\Local\Temporary Projects\Clock Chase\bin\Debug\Clock Chase.xml
+C:\Users\emiliyank\AppData\Local\Temporary Projects\Clock Chase\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\emiliyank\AppData\Local\Temporary Projects\Clock Chase\obj\x86\Debug\Clock_Chase.Form1.resources
+C:\Users\emiliyank\AppData\Local\Temporary Projects\Clock Chase\obj\x86\Debug\Clock_Chase.Resources.resources
+C:\Users\emiliyank\AppData\Local\Temporary Projects\Clock Chase\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\emiliyank\AppData\Local\Temporary Projects\Clock Chase\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\emiliyank\AppData\Local\Temporary Projects\Clock Chase\obj\x86\Debug\Clock Chase.exe
+C:\Users\emiliyank\AppData\Local\Temporary Projects\Clock Chase\obj\x86\Debug\Clock Chase.xml
+C:\Users\emiliyank\AppData\Local\Temporary Projects\Clock Chase\obj\x86\Debug\Clock Chase.pdb
+C:\Users\emiliyank\Documents\GitHub\test2Student\Clock Chase\Clock Chase\obj\x86\Debug\Clock Chase.exe
+C:\Users\emiliyank\Documents\GitHub\test2Student\Clock Chase\Clock Chase\obj\x86\Debug\Clock Chase.xml
+C:\Users\emiliyank\Documents\GitHub\test2Student\Clock Chase\Clock Chase\obj\x86\Debug\Clock Chase.pdb
+C:\Users\emiliyank\Documents\GitHub\test2Student\Clock Chase\Clock Chase\bin\Debug\Clock Chase.exe
+C:\Users\emiliyank\Documents\GitHub\test2Student\Clock Chase\Clock Chase\bin\Debug\Clock Chase.pdb
+C:\Users\emiliyank\Documents\GitHub\test2Student\Clock Chase\Clock Chase\bin\Debug\Clock Chase.xml
+C:\Users\emiliyank\Documents\GitHub\test2Student\Clock Chase\Clock Chase\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\emiliyank\Documents\GitHub\test2Student\Clock Chase\Clock Chase\obj\x86\Debug\Clock_Chase.Form1.resources
+C:\Users\emiliyank\Documents\GitHub\test2Student\Clock Chase\Clock Chase\obj\x86\Debug\Clock_Chase.Resources.resources
+C:\Users\emiliyank\Documents\GitHub\test2Student\Clock Chase\Clock Chase\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\emiliyank\Documents\GitHub\test2Student\Clock Chase\Clock Chase\obj\x86\Debug\GenerateResource.write.1.tlog

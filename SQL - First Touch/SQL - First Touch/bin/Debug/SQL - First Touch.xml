@@ -1,0 +1,216 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+SQL-FirstTouch
+</name>
+</assembly>
+<members>
+<member name="P:SQL___First_Touch.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:SQL___First_Touch.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:SQL___First_Touch.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="T:SQL___First_Touch.DB1DataSet2.Car_CompaniesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SQL___First_Touch.DB1DataSet2.CarsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SQL___First_Touch.DB1DataSet2.Car_CompaniesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SQL___First_Touch.DB1DataSet2.CarsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SQL___First_Touch.DB1DataSet2.Car_CompaniesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SQL___First_Touch.DB1DataSet2.CarsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SQL___First_Touch.DB1DataSet2">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:SQL___First_Touch.DB1DataSet2TableAdapters.Car_CompaniesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SQL___First_Touch.DB1DataSet2TableAdapters.CarsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:SQL___First_Touch.DB1DataSet2TableAdapters.TableAdapterManager.UpdateUpdatedRows(SQL___First_Touch.DB1DataSet2,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:SQL___First_Touch.DB1DataSet2TableAdapters.TableAdapterManager.UpdateInsertedRows(SQL___First_Touch.DB1DataSet2,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:SQL___First_Touch.DB1DataSet2TableAdapters.TableAdapterManager.UpdateDeletedRows(SQL___First_Touch.DB1DataSet2,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:SQL___First_Touch.DB1DataSet2TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:SQL___First_Touch.DB1DataSet2TableAdapters.TableAdapterManager.UpdateAll(SQL___First_Touch.DB1DataSet2)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:SQL___First_Touch.DB1DataSet2TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:SQL___First_Touch.DB1DataSet2TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:SQL___First_Touch.DB1DataSet2TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:SQL___First_Touch.DB1DataSet1.Car_CompaniesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SQL___First_Touch.DB1DataSet1.CarsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SQL___First_Touch.DB1DataSet1.Car_CompaniesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SQL___First_Touch.DB1DataSet1.CarsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SQL___First_Touch.DB1DataSet1.Car_CompaniesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SQL___First_Touch.DB1DataSet1.CarsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SQL___First_Touch.DB1DataSet1">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:SQL___First_Touch.DB1DataSet1TableAdapters.Car_CompaniesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SQL___First_Touch.DB1DataSet1TableAdapters.CarsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:SQL___First_Touch.DB1DataSet1TableAdapters.TableAdapterManager.UpdateUpdatedRows(SQL___First_Touch.DB1DataSet1,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:SQL___First_Touch.DB1DataSet1TableAdapters.TableAdapterManager.UpdateInsertedRows(SQL___First_Touch.DB1DataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:SQL___First_Touch.DB1DataSet1TableAdapters.TableAdapterManager.UpdateDeletedRows(SQL___First_Touch.DB1DataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:SQL___First_Touch.DB1DataSet1TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:SQL___First_Touch.DB1DataSet1TableAdapters.TableAdapterManager.UpdateAll(SQL___First_Touch.DB1DataSet1)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:SQL___First_Touch.DB1DataSet1TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:SQL___First_Touch.DB1DataSet1TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:SQL___First_Touch.DB1DataSet1TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:SQL___First_Touch.DB1DataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:SQL___First_Touch.DB1DataSet3.CarsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SQL___First_Touch.DB1DataSet3.CarsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SQL___First_Touch.DB1DataSet3.CarsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SQL___First_Touch.DB1DataSet3">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:SQL___First_Touch.DB1DataSet3TableAdapters.CarsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:SQL___First_Touch.DB1DataSet3TableAdapters.TableAdapterManager.UpdateUpdatedRows(SQL___First_Touch.DB1DataSet3,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:SQL___First_Touch.DB1DataSet3TableAdapters.TableAdapterManager.UpdateInsertedRows(SQL___First_Touch.DB1DataSet3,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:SQL___First_Touch.DB1DataSet3TableAdapters.TableAdapterManager.UpdateDeletedRows(SQL___First_Touch.DB1DataSet3,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:SQL___First_Touch.DB1DataSet3TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:SQL___First_Touch.DB1DataSet3TableAdapters.TableAdapterManager.UpdateAll(SQL___First_Touch.DB1DataSet3)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:SQL___First_Touch.DB1DataSet3TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:SQL___First_Touch.DB1DataSet3TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:SQL___First_Touch.DB1DataSet3TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+</members>
+</doc>

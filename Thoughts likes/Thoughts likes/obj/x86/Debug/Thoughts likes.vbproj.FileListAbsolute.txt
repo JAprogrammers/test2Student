@@ -1,0 +1,14 @@
+C:\Users\emiliyank\AppData\Local\Temporary Projects\Thoughts likes\bin\Debug\Thoughts likes.exe
+C:\Users\emiliyank\AppData\Local\Temporary Projects\Thoughts likes\bin\Debug\Thoughts likes.pdb
+C:\Users\emiliyank\AppData\Local\Temporary Projects\Thoughts likes\bin\Debug\Thoughts likes.xml
+C:\Users\emiliyank\AppData\Local\Temporary Projects\Thoughts likes\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\emiliyank\AppData\Local\Temporary Projects\Thoughts likes\obj\x86\Debug\Thoughts_likes.Form1.resources
+C:\Users\emiliyank\AppData\Local\Temporary Projects\Thoughts likes\obj\x86\Debug\Thoughts_likes.Resources.resources
+C:\Users\emiliyank\AppData\Local\Temporary Projects\Thoughts likes\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\emiliyank\AppData\Local\Temporary Projects\Thoughts likes\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\emiliyank\AppData\Local\Temporary Projects\Thoughts likes\obj\x86\Debug\Thoughts likes.exe
+C:\Users\emiliyank\AppData\Local\Temporary Projects\Thoughts likes\obj\x86\Debug\Thoughts likes.xml
+C:\Users\emiliyank\AppData\Local\Temporary Projects\Thoughts likes\obj\x86\Debug\Thoughts likes.pdb
+C:\Users\emiliyank\Documents\GitHub\test2Student\Thoughts likes\Thoughts likes\obj\x86\Debug\Thoughts likes.exe
+C:\Users\emiliyank\Documents\GitHub\test2Student\Thoughts likes\Thoughts likes\obj\x86\Debug\Thoughts likes.xml
+C:\Users\emiliyank\Documents\GitHub\test2Student\Thoughts likes\Thoughts likes\obj\x86\Debug\Thoughts likes.pdb

@@ -1,0 +1,22 @@
+C:\Users\emiliyank\AppData\Local\Temporary Projects\Tehnol na progr TP3.1 Gr3 - CarRace\bin\Debug\Tehnol na progr TP3.1 Gr3 - CarRace.exe
+C:\Users\emiliyank\AppData\Local\Temporary Projects\Tehnol na progr TP3.1 Gr3 - CarRace\bin\Debug\Tehnol na progr TP3.1 Gr3 - CarRace.pdb
+C:\Users\emiliyank\AppData\Local\Temporary Projects\Tehnol na progr TP3.1 Gr3 - CarRace\bin\Debug\Tehnol na progr TP3.1 Gr3 - CarRace.xml
+C:\Users\emiliyank\AppData\Local\Temporary Projects\Tehnol na progr TP3.1 Gr3 - CarRace\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\emiliyank\AppData\Local\Temporary Projects\Tehnol na progr TP3.1 Gr3 - CarRace\obj\x86\Debug\Tehnol_na_progr_TP3._1_Gr3___CarRace.Form1.resources
+C:\Users\emiliyank\AppData\Local\Temporary Projects\Tehnol na progr TP3.1 Gr3 - CarRace\obj\x86\Debug\Tehnol_na_progr_TP3._1_Gr3___CarRace.Resources.resources
+C:\Users\emiliyank\AppData\Local\Temporary Projects\Tehnol na progr TP3.1 Gr3 - CarRace\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\emiliyank\AppData\Local\Temporary Projects\Tehnol na progr TP3.1 Gr3 - CarRace\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\emiliyank\AppData\Local\Temporary Projects\Tehnol na progr TP3.1 Gr3 - CarRace\obj\x86\Debug\Tehnol na progr TP3.1 Gr3 - CarRace.exe
+C:\Users\emiliyank\AppData\Local\Temporary Projects\Tehnol na progr TP3.1 Gr3 - CarRace\obj\x86\Debug\Tehnol na progr TP3.1 Gr3 - CarRace.xml
+C:\Users\emiliyank\AppData\Local\Temporary Projects\Tehnol na progr TP3.1 Gr3 - CarRace\obj\x86\Debug\Tehnol na progr TP3.1 Gr3 - CarRace.pdb
+C:\Users\emiliyank\Documents\GitHub\test2Student\Tehnol na progr TP3.1 Gr3 - CarRace\Tehnol na progr TP3.1 Gr3 - CarRace\obj\x86\Debug\Tehnol na progr TP3.1 Gr3 - CarRace.exe
+C:\Users\emiliyank\Documents\GitHub\test2Student\Tehnol na progr TP3.1 Gr3 - CarRace\Tehnol na progr TP3.1 Gr3 - CarRace\obj\x86\Debug\Tehnol na progr TP3.1 Gr3 - CarRace.xml
+C:\Users\emiliyank\Documents\GitHub\test2Student\Tehnol na progr TP3.1 Gr3 - CarRace\Tehnol na progr TP3.1 Gr3 - CarRace\obj\x86\Debug\Tehnol na progr TP3.1 Gr3 - CarRace.pdb
+C:\Users\emiliyank\Documents\GitHub\test2Student\Tehnol na progr TP3.1 Gr3 - CarRace\Tehnol na progr TP3.1 Gr3 - CarRace\bin\Debug\Tehnol na progr TP3.1 Gr3 - CarRace.exe
+C:\Users\emiliyank\Documents\GitHub\test2Student\Tehnol na progr TP3.1 Gr3 - CarRace\Tehnol na progr TP3.1 Gr3 - CarRace\bin\Debug\Tehnol na progr TP3.1 Gr3 - CarRace.pdb
+C:\Users\emiliyank\Documents\GitHub\test2Student\Tehnol na progr TP3.1 Gr3 - CarRace\Tehnol na progr TP3.1 Gr3 - CarRace\bin\Debug\Tehnol na progr TP3.1 Gr3 - CarRace.xml
+C:\Users\emiliyank\Documents\GitHub\test2Student\Tehnol na progr TP3.1 Gr3 - CarRace\Tehnol na progr TP3.1 Gr3 - CarRace\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\emiliyank\Documents\GitHub\test2Student\Tehnol na progr TP3.1 Gr3 - CarRace\Tehnol na progr TP3.1 Gr3 - CarRace\obj\x86\Debug\Tehnol_na_progr_TP3._1_Gr3___CarRace.Form1.resources
+C:\Users\emiliyank\Documents\GitHub\test2Student\Tehnol na progr TP3.1 Gr3 - CarRace\Tehnol na progr TP3.1 Gr3 - CarRace\obj\x86\Debug\Tehnol_na_progr_TP3._1_Gr3___CarRace.Resources.resources
+C:\Users\emiliyank\Documents\GitHub\test2Student\Tehnol na progr TP3.1 Gr3 - CarRace\Tehnol na progr TP3.1 Gr3 - CarRace\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\emiliyank\Documents\GitHub\test2Student\Tehnol na progr TP3.1 Gr3 - CarRace\Tehnol na progr TP3.1 Gr3 - CarRace\obj\x86\Debug\GenerateResource.write.1.tlog

@@ -1,0 +1,14 @@
+C:\Users\emiliyank\AppData\Local\Temporary Projects\Mecho Arrays\bin\Debug\Mecho Arrays.exe
+C:\Users\emiliyank\AppData\Local\Temporary Projects\Mecho Arrays\bin\Debug\Mecho Arrays.pdb
+C:\Users\emiliyank\AppData\Local\Temporary Projects\Mecho Arrays\bin\Debug\Mecho Arrays.xml
+C:\Users\emiliyank\AppData\Local\Temporary Projects\Mecho Arrays\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\emiliyank\AppData\Local\Temporary Projects\Mecho Arrays\obj\x86\Debug\Mecho_Arrays.Form1.resources
+C:\Users\emiliyank\AppData\Local\Temporary Projects\Mecho Arrays\obj\x86\Debug\Mecho_Arrays.Resources.resources
+C:\Users\emiliyank\AppData\Local\Temporary Projects\Mecho Arrays\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\emiliyank\AppData\Local\Temporary Projects\Mecho Arrays\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\emiliyank\AppData\Local\Temporary Projects\Mecho Arrays\obj\x86\Debug\Mecho Arrays.exe
+C:\Users\emiliyank\AppData\Local\Temporary Projects\Mecho Arrays\obj\x86\Debug\Mecho Arrays.xml
+C:\Users\emiliyank\AppData\Local\Temporary Projects\Mecho Arrays\obj\x86\Debug\Mecho Arrays.pdb
+C:\Users\emiliyank\Documents\GitHub\test2Student\Mecho Arrays\Mecho Arrays\obj\x86\Debug\Mecho Arrays.exe
+C:\Users\emiliyank\Documents\GitHub\test2Student\Mecho Arrays\Mecho Arrays\obj\x86\Debug\Mecho Arrays.xml
+C:\Users\emiliyank\Documents\GitHub\test2Student\Mecho Arrays\Mecho Arrays\obj\x86\Debug\Mecho Arrays.pdb

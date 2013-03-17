@@ -1,0 +1,14 @@
+C:\Users\emiliyank\AppData\Local\Temporary Projects\Round running clock\bin\Debug\Round running clock.exe
+C:\Users\emiliyank\AppData\Local\Temporary Projects\Round running clock\bin\Debug\Round running clock.pdb
+C:\Users\emiliyank\AppData\Local\Temporary Projects\Round running clock\bin\Debug\Round running clock.xml
+C:\Users\emiliyank\AppData\Local\Temporary Projects\Round running clock\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\emiliyank\AppData\Local\Temporary Projects\Round running clock\obj\x86\Debug\Round_running_clock.Form1.resources
+C:\Users\emiliyank\AppData\Local\Temporary Projects\Round running clock\obj\x86\Debug\Round_running_clock.Resources.resources
+C:\Users\emiliyank\AppData\Local\Temporary Projects\Round running clock\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\emiliyank\AppData\Local\Temporary Projects\Round running clock\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\emiliyank\AppData\Local\Temporary Projects\Round running clock\obj\x86\Debug\Round running clock.exe
+C:\Users\emiliyank\AppData\Local\Temporary Projects\Round running clock\obj\x86\Debug\Round running clock.xml
+C:\Users\emiliyank\AppData\Local\Temporary Projects\Round running clock\obj\x86\Debug\Round running clock.pdb
+C:\Users\emiliyank\Documents\GitHub\test2Student\Round running clock\Round running clock\obj\x86\Debug\Round running clock.exe
+C:\Users\emiliyank\Documents\GitHub\test2Student\Round running clock\Round running clock\obj\x86\Debug\Round running clock.xml
+C:\Users\emiliyank\Documents\GitHub\test2Student\Round running clock\Round running clock\obj\x86\Debug\Round running clock.pdb

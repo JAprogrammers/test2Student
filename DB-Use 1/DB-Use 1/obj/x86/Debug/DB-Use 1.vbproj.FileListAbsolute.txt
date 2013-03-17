@@ -1,0 +1,13 @@
+C:\Users\emiliyank\Documents\GitHub\test2Student\DB-Use 1\DB-Use 1\bin\Debug\DB-Use 1.exe.config
+C:\Users\emiliyank\Documents\GitHub\test2Student\DB-Use 1\DB-Use 1\bin\Debug\DB1-Bulgaria.accdb
+C:\Users\emiliyank\Documents\GitHub\test2Student\DB-Use 1\DB-Use 1\bin\Debug\DB-Use 1.exe
+C:\Users\emiliyank\Documents\GitHub\test2Student\DB-Use 1\DB-Use 1\bin\Debug\DB-Use 1.pdb
+C:\Users\emiliyank\Documents\GitHub\test2Student\DB-Use 1\DB-Use 1\bin\Debug\DB-Use 1.xml
+C:\Users\emiliyank\Documents\GitHub\test2Student\DB-Use 1\DB-Use 1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\emiliyank\Documents\GitHub\test2Student\DB-Use 1\DB-Use 1\obj\x86\Debug\DB_Use_1.Form1.resources
+C:\Users\emiliyank\Documents\GitHub\test2Student\DB-Use 1\DB-Use 1\obj\x86\Debug\DB_Use_1.Resources.resources
+C:\Users\emiliyank\Documents\GitHub\test2Student\DB-Use 1\DB-Use 1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\emiliyank\Documents\GitHub\test2Student\DB-Use 1\DB-Use 1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\emiliyank\Documents\GitHub\test2Student\DB-Use 1\DB-Use 1\obj\x86\Debug\DB-Use 1.exe
+C:\Users\emiliyank\Documents\GitHub\test2Student\DB-Use 1\DB-Use 1\obj\x86\Debug\DB-Use 1.xml
+C:\Users\emiliyank\Documents\GitHub\test2Student\DB-Use 1\DB-Use 1\obj\x86\Debug\DB-Use 1.pdb

@@ -1,0 +1,11 @@
+C:\Users\emiliyank\Documents\GitHub\test2Student\Tehnol na progr TP3.1 Gr2 - Shoot Target\Tehnol na progr TP3.1 Gr2 - Shoot Target\bin\Debug\Tehnol na progr TP3.1 Gr2 - Shoot Target.exe
+C:\Users\emiliyank\Documents\GitHub\test2Student\Tehnol na progr TP3.1 Gr2 - Shoot Target\Tehnol na progr TP3.1 Gr2 - Shoot Target\bin\Debug\Tehnol na progr TP3.1 Gr2 - Shoot Target.pdb
+C:\Users\emiliyank\Documents\GitHub\test2Student\Tehnol na progr TP3.1 Gr2 - Shoot Target\Tehnol na progr TP3.1 Gr2 - Shoot Target\bin\Debug\Tehnol na progr TP3.1 Gr2 - Shoot Target.xml
+C:\Users\emiliyank\Documents\GitHub\test2Student\Tehnol na progr TP3.1 Gr2 - Shoot Target\Tehnol na progr TP3.1 Gr2 - Shoot Target\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\emiliyank\Documents\GitHub\test2Student\Tehnol na progr TP3.1 Gr2 - Shoot Target\Tehnol na progr TP3.1 Gr2 - Shoot Target\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\emiliyank\Documents\GitHub\test2Student\Tehnol na progr TP3.1 Gr2 - Shoot Target\Tehnol na progr TP3.1 Gr2 - Shoot Target\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\emiliyank\Documents\GitHub\test2Student\Tehnol na progr TP3.1 Gr2 - Shoot Target\Tehnol na progr TP3.1 Gr2 - Shoot Target\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\emiliyank\Documents\GitHub\test2Student\Tehnol na progr TP3.1 Gr2 - Shoot Target\Tehnol na progr TP3.1 Gr2 - Shoot Target\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\emiliyank\Documents\GitHub\test2Student\Tehnol na progr TP3.1 Gr2 - Shoot Target\Tehnol na progr TP3.1 Gr2 - Shoot Target\obj\x86\Debug\Tehnol na progr TP3.1 Gr2 - Shoot Target.exe
+C:\Users\emiliyank\Documents\GitHub\test2Student\Tehnol na progr TP3.1 Gr2 - Shoot Target\Tehnol na progr TP3.1 Gr2 - Shoot Target\obj\x86\Debug\Tehnol na progr TP3.1 Gr2 - Shoot Target.xml
+C:\Users\emiliyank\Documents\GitHub\test2Student\Tehnol na progr TP3.1 Gr2 - Shoot Target\Tehnol na progr TP3.1 Gr2 - Shoot Target\obj\x86\Debug\Tehnol na progr TP3.1 Gr2 - Shoot Target.pdb

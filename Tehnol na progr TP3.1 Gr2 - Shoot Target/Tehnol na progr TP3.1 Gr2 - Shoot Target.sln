@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Basic Express 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Tehnol na progr TP3.1 Gr2 - Shoot Target", "Tehnol na progr TP3.1 Gr2 - Shoot Target\Tehnol na progr TP3.1 Gr2 - Shoot Target.vbproj", "{1BFCC1D6-543C-450D-96A5-B9BA0563C170}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1BFCC1D6-543C-450D-96A5-B9BA0563C170}.Debug|x86.ActiveCfg = Debug|x86
+		{1BFCC1D6-543C-450D-96A5-B9BA0563C170}.Debug|x86.Build.0 = Debug|x86
+		{1BFCC1D6-543C-450D-96A5-B9BA0563C170}.Release|x86.ActiveCfg = Release|x86
+		{1BFCC1D6-543C-450D-96A5-B9BA0563C170}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,14 @@
+C:\Users\emiliyank\AppData\Local\Temporary Projects\Timers\bin\Debug\Timers.exe
+C:\Users\emiliyank\AppData\Local\Temporary Projects\Timers\bin\Debug\Timers.pdb
+C:\Users\emiliyank\AppData\Local\Temporary Projects\Timers\bin\Debug\Timers.xml
+C:\Users\emiliyank\AppData\Local\Temporary Projects\Timers\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\emiliyank\AppData\Local\Temporary Projects\Timers\obj\x86\Debug\Timers.Form1.resources
+C:\Users\emiliyank\AppData\Local\Temporary Projects\Timers\obj\x86\Debug\Timers.Resources.resources
+C:\Users\emiliyank\AppData\Local\Temporary Projects\Timers\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\emiliyank\AppData\Local\Temporary Projects\Timers\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\emiliyank\AppData\Local\Temporary Projects\Timers\obj\x86\Debug\Timers.exe
+C:\Users\emiliyank\AppData\Local\Temporary Projects\Timers\obj\x86\Debug\Timers.xml
+C:\Users\emiliyank\AppData\Local\Temporary Projects\Timers\obj\x86\Debug\Timers.pdb
+C:\Users\emiliyank\Documents\GitHub\test2Student\Timers\Timers\obj\x86\Debug\Timers.exe
+C:\Users\emiliyank\Documents\GitHub\test2Student\Timers\Timers\obj\x86\Debug\Timers.xml
+C:\Users\emiliyank\Documents\GitHub\test2Student\Timers\Timers\obj\x86\Debug\Timers.pdb
