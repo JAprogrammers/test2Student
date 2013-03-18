@@ -1,0 +1,26 @@
+Type                                                              27.08.2000
+MO 90 L4 v
+
+P2r     p       V1r     swc     D1      Da1     Di2     l1      l2      del
+1.5     2       380     1       80      135     30      80      80      0.25
+
+Z1      nss     bs1     hs1     b11     b1      h'k1    h11     hwe1    bwe1
+36      4       2.3     0.7     3.5     5.89    13.8    0.5     0.19    0
+
+Z2      nrs     bs2     hs2     b21     b2      h'k2    h21     bs3     hs3
+26      2       1       0.5     4.5     1.6     11.7    0.5     0       0
+
+b3      b31     h3      hbr     bsk     ber     aer     swt     qd1     qc1
+0       0       0       0       9.6     14      14      12      3       1
+
+y1      a1      uk1     nel1    dco1    dis1    deli    kec1    lsp1    pmeh
+9       1       51      1       0.80    0.862   0.19    1.1     10      100
+
+ro120   ro220   tnl     trls    trlr    tsss    tssr    tcla    Vred    f1
+0.0175  0.0385  35      75      90      75      90      105     0       50
+
+cfez    cfea    kfe1    p151    kfe2    p152    uk11    uk12    uk13    uk14
+1.9     1.6     0.95    2.2     0.95    2.2     0       0       0       0
+
+bco1    aco1    Sco1    bis1    ais1    n1w     n1h     bb2     bb21    hb2
+0       0       0       0       0       0       0       0       0       0

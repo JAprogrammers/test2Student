@@ -1,0 +1,15 @@
+C:\Documents and Settings\Student\My Documents\Visual Studio 2010\Projects\ASM - Fortran\ASM - Fortran\bin\Debug\ASM - Fortran.exe
+C:\Documents and Settings\Student\My Documents\Visual Studio 2010\Projects\ASM - Fortran\ASM - Fortran\bin\Debug\ASM - Fortran.pdb
+C:\Documents and Settings\Student\My Documents\Visual Studio 2010\Projects\ASM - Fortran\ASM - Fortran\bin\Debug\ASM - Fortran.xml
+C:\Documents and Settings\Student\My Documents\Visual Studio 2010\Projects\ASM - Fortran\ASM - Fortran\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Student\My Documents\Visual Studio 2010\Projects\ASM - Fortran\ASM - Fortran\obj\x86\Debug\ASM___Fortran.Form1.resources
+C:\Documents and Settings\Student\My Documents\Visual Studio 2010\Projects\ASM - Fortran\ASM - Fortran\obj\x86\Debug\ASM___Fortran.Resources.resources
+C:\Documents and Settings\Student\My Documents\Visual Studio 2010\Projects\ASM - Fortran\ASM - Fortran\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Student\My Documents\Visual Studio 2010\Projects\ASM - Fortran\ASM - Fortran\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Student\My Documents\Visual Studio 2010\Projects\ASM - Fortran\ASM - Fortran\obj\x86\Debug\ASM - Fortran.exe
+C:\Documents and Settings\Student\My Documents\Visual Studio 2010\Projects\ASM - Fortran\ASM - Fortran\obj\x86\Debug\ASM - Fortran.xml
+C:\Documents and Settings\Student\My Documents\Visual Studio 2010\Projects\ASM - Fortran\ASM - Fortran\obj\x86\Debug\ASM - Fortran.pdb
+C:\Documents and Settings\Student\My Documents\Visual Studio 2010\Projects\ASM - Fortran\ASM - Fortran\obj\x86\Debug\ASM___Fortran.Results.resources
+C:\Users\emiliyank\Documents\GitHub\test2Student\ASM3\ASM - Fortran\ASM - Fortran\obj\x86\Debug\ASM - Fortran.exe
+C:\Users\emiliyank\Documents\GitHub\test2Student\ASM3\ASM - Fortran\ASM - Fortran\obj\x86\Debug\ASM - Fortran.xml
+C:\Users\emiliyank\Documents\GitHub\test2Student\ASM3\ASM - Fortran\ASM - Fortran\obj\x86\Debug\ASM - Fortran.pdb
